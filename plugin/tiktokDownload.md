@@ -1,5 +1,6 @@
 <title>Tiktok Download</title>
 <desc>Mengunduh video Tiktok melalui pesan secara mudah</desc>
+<github>fitri-hy</github>
 <support>
   {
     "windows": "supported",

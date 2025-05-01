@@ -1,5 +1,6 @@
 <title>Auto Reply Default</title>
 <desc>Fitur Auto Reply Default untuk membalas pesan secara otomatis.</desc>
+<github>fitri-hy</github>
 <support>
   {
     "windows": "supported",

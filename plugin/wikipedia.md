@@ -1,5 +1,6 @@
 <title>Wikipedia</title>
 <desc>Pencarian konten dari wikipedia</desc>
+<github>fitri-hy</github>
 <support>
   {
     "windows": "supported",

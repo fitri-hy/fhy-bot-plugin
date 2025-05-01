@@ -1,5 +1,6 @@
 <title>Country</title>
 <desc>Mendapatkan data tentang negara</desc>
+<github>fitri-hy</github>
 <support>
   {
     "windows": "supported",

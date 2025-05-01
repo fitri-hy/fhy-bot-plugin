@@ -1,5 +1,6 @@
 <title>Cuaca</title>
 <desc>Perkiraan cuaca di berbagai kota</desc>
+<github>fitri-hy</github>
 <support>
   {
     "windows": "supported",

@@ -1,5 +1,6 @@
 <title>Gemini AI</title>
 <desc>Gemini AI untuk memberikan respons cerdas dalam interaksi</desc>
+<github>fitri-hy</github>
 <support>
   {
     "windows": "supported",

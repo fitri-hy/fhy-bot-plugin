@@ -1,5 +1,6 @@
 <title>Terjemahan</title>
 <desc>Menerjemahkan bahasa ke bahasa lain sesuai pilihan</desc>
+<github>fitri-hy</github>
 <support>
   {
     "windows": "supported",

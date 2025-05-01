@@ -1,5 +1,6 @@
 <title>Instagram Download</title>
 <desc>Mengunduh video Instagram melalui pesan secara mudah</desc>
+<github>fitri-hy</github>
 <support>
   {
     "windows": "supported",

@@ -1,5 +1,6 @@
 <title>Sticker Generator</title>
 <desc>Generator stiker dengan menkutip pesan gambar</desc>
+<github>fitri-hy</github>
 <support>
   {
     "windows": "supported",

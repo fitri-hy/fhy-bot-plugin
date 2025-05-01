@@ -1,7 +1,6 @@
 <title>Nonton Anime</title>
 <desc>Mencari semua video episode berdasarkan judul anime</desc>
-
-<!-- Apakah plugin Anda bisa berjalan di windows, linux, atau termux? (supported, not_supported, unknown) -->
+<github>fitri-hy</github>
 <support>
   {
     "windows": "supported",
@@ -10,10 +9,8 @@
   }
 </support>
 
-<!-- Biarkan seperti ini -->
 ## Instalasi:
 Langkah-langkah instalasi pemasangan plugin Anda bisa lihat di [Dokumentasi](/docs#Plugin)
-<!-- ################### -->
 
 ## Penggunaan:
 - Kirim pesan teks ke bot dengan format: `.anime <text>`

@@ -1,5 +1,6 @@
 <title>Youtube Download</title>
 <desc>Mengunduh video Youtube melalui pesan secara mudah</desc>
+<github>fitri-hy</github>
 <support>
   {
     "windows": "supported",

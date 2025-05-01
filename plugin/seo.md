@@ -1,5 +1,6 @@
 <title>SEO Alisis</title>
 <desc>Menganalisa seo dari sebuah domain</desc>
+<github>fitri-hy</github>
 <support>
   {
     "windows": "supported",
