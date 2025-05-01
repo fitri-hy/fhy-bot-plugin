@@ -16,7 +16,7 @@ Langkah-langkah instalasi pemasangan plugin Anda bisa lihat di [Dokumentasi](/do
 <!-- ################### -->
 
 ## Penggunaan:
-- Kirim pesan teks ke bot dengan format: .anime <judul-anime>
+- Kirim pesan teks ke bot dengan format: `.anime <judul-anime>`
 
 ---
 
