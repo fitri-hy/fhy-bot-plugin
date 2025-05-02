@@ -1,5 +1,5 @@
-<title>Github Stalker</title>
-<desc>Lihat profil, repo terbaru, bintang, dan fork dari akun GitHub hanya dengan satu perintah.</desc>
+<title>JS Obfuscate</title>
+<desc>Obfuscate kode JavaScript dengan mudah. Cukup kirim kode, dan bot akan memberikan versi yang tersembunyi.</desc>
 <github>fitri-hy</github>
 <support>
   {
