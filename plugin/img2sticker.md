@@ -1,5 +1,5 @@
-<title>Sticker Generator</title>
-<desc>Generator stiker dengan menkutip pesan gambar</desc>
+<title>Image To Sticker</title>
+<desc>Membuat sticker secara otomatis dari pesan gambar.</desc>
 <github>fitri-hy</github>
 <support>
   {
