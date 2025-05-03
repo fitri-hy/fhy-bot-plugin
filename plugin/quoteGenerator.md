@@ -5,7 +5,7 @@
   {
     "windows": "supported",
     "linux": "supported",
-    "termux": "supported"
+    "termux": "unknown"
   }
 </support>
 
