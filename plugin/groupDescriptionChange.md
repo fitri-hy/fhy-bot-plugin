@@ -1,5 +1,5 @@
 <title>Group Description Change</title>
-<desc></desc>
+<desc>Dengan fitur ini, Anda dapat mengubah deskripsi grup untuk memberikan informasi yang lebih jelas atau mengupdate tujuan grup.</desc>
 <github>fitri-hy</github>
 <support>
   {

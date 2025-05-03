@@ -1,5 +1,5 @@
 <title>Group Demote User</title>
-<desc></desc>
+<desc>Fitur ini memungkinkan Anda untuk menurunkan peran atau status seorang anggota dalam grup, misalnya mengubah admin menjadi anggota biasa.</desc>
 <github>fitri-hy</github>
 <support>
   {

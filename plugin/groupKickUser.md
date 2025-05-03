@@ -1,5 +1,5 @@
 <title>Group Kick User</title>
-<desc></desc>
+<desc>Fitur ini memungkinkan Anda untuk mengeluarkan anggota dari grup. Anda dapat mengeluarkan pengguna yang melanggar aturan atau yang tidak lagi relevan</desc>
 <github>fitri-hy</github>
 <support>
   {

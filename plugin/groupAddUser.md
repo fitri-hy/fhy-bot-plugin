@@ -1,5 +1,5 @@
 <title>Group Add User</title>
-<desc></desc>
+<desc>Fitur ini memungkinkan Anda untuk menambahkan anggota baru ke dalam grup. Anda dapat mengundang orang lain untuk bergabung dengan grup</desc>
 <github>fitri-hy</github>
 <support>
   {

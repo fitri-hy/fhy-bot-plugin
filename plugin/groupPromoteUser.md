@@ -1,5 +1,5 @@
 <title>Group Promote User</title>
-<desc></desc>
+<desc>Fitur ini memungkinkan Anda untuk meningkatkan peran atau status anggota dalam grup, misalnya mengubah anggota menjadi admin.</desc>
 <github>fitri-hy</github>
 <support>
   {

@@ -1,5 +1,5 @@
 <title>Group Name Change</title>
-<desc></desc>
+<desc>Fitur ini memungkinkan Anda untuk mengubah nama grup. Anda dapat memperbarui nama grup sesuai dengan kebutuhan.</desc>
 <github>fitri-hy</github>
 <support>
   {
