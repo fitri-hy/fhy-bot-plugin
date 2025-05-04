@@ -13,8 +13,8 @@
 Langkah-langkah instalasi pemasangan plugin Anda bisa lihat di [Dokumentasi](/docs#Plugin)
 
 ## Penggunaan:
-- Kirim pesan dengan mention ke bot dengan format: `@<mention-bot> <text>`
-- Kirim reply ke pesan bot dengan format: `<text>`
+- Kirim pesan dengan mention ke bot dengan format: `@<mention-bot> <text>` & untuk reset history `!clear`
+- Kirim reply ke pesan bot dengan format: `<text>` & untuk reset history `!clear`
 - Dapatkan ApiKey [*DISINI*](https://lynix.i-as.dev/docs#limits)
 
 ---
