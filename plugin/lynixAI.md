@@ -15,7 +15,7 @@ Langkah-langkah instalasi pemasangan plugin Anda bisa lihat di [Dokumentasi](/do
 ## Penggunaan:
 - Kirim pesan dengan mention ke bot dengan format: `@<mention-bot> <text>` & untuk reset history `!clear`
 - Kirim reply ke pesan bot dengan format: `<text>` & untuk reset history `!clear`
-- Dapatkan ApiKey [*DISINI*](https://lynix.i-as.dev/docs#limits)
+- Dapatkan ApiKey [*DISINI*](https://lynix-ai.vercel.app/docs#limits)
 
 ---
 
@@ -51,7 +51,7 @@ module.exports = async (sock, message, msg, sender) => {
         try {
             await sock.sendMessage(sender, { react: { text: EMOJIS.loading, key: message.key } });
 
-            const response = await axios.post('https://lynix.i-as.dev/api/clear', {
+            const response = await axios.post('https://lynix-ai.vercel.app/api/clear', {
                 user_id: sender
             });
 
@@ -72,7 +72,7 @@ module.exports = async (sock, message, msg, sender) => {
     try {
         await sock.sendMessage(sender, { react: { text: EMOJIS.loading, key: message.key } });
 
-        const response = await axios.post('https://lynix.i-as.dev/api/chat', {
+        const response = await axios.post('https://lynix-ai.vercel.app/api/chat', {
             user_id: sender,
             question: question,
             prompt: "Kamu adalah Lynix-AI, balas setia pertanyaan dengan sopan namun singkat."
